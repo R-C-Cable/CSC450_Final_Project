@@ -9,4 +9,5 @@ This is a simple concurrent program in Java. It simply passes a counter method w
 
 Just a simple, but effective display of knowledge
 
-![image](https://user-images.githubusercontent.com/77639928/124301903-b3158a80-db1d-11eb-8a42-0815a3c2d5dd.png)
+![124301903-b3158a80-db1d-11eb-8a42-0815a3c2d5dd](https://user-images.githubusercontent.com/77639928/125139589-06637c00-e0ce-11eb-869d-a7ca20e4bcdc.png)
+
